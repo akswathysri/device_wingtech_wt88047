@@ -42,3 +42,6 @@ persist.camera.hal.debug.mask=0
 
 # Camera sensors
 ro.camera.sensors=ov8865_q8v18a,ov2680_skuhf,ov2680_5987fhq
+
+# Multiuser
+fw.max_users=1
